@@ -13,7 +13,7 @@ gcc main.c -o main -lm
 ## Visualize
 
 ```ps
-https://colab.research.google.com/drive/1rI4FxGoDJ9k33Rmlw1l-vG-S-okDQCmd#scrollTo=QcIsRvZtHcWp
+[Google Colab](https://colab.research.google.com/drive/1rI4FxGoDJ9k33Rmlw1l-vG-S-okDQCmd#scrollTo=QcIsRvZtHcWp)
 ```
 
 ## Test
